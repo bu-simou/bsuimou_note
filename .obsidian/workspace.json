@@ -11,14 +11,17 @@
             "id": "f8f3dd54c8eaedcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Test"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -184,6 +187,7 @@
   "active": "f8f3dd54c8eaedcb",
   "lastOpenFiles": [
     "未命名.base",
+    "未命名.canvas",
     "Test.md",
     "新建 文本文档.txt"
   ]
