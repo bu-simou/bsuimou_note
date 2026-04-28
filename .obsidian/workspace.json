@@ -11,10 +11,13 @@
             "id": "d435bd50979cb1ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "bases",
+              "state": {
+                "file": "未命名 1.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 1"
             }
           }
         ]
@@ -189,6 +192,7 @@
   },
   "active": "d435bd50979cb1ee",
   "lastOpenFiles": [
+    "未命名 1.base",
     "未命名.base",
     "未命名.canvas",
     "Test.md",
