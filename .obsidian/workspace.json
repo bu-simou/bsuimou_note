@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b86b9b8204e85e15",
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +191,16 @@
   },
   "active": "d435bd50979cb1ee",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260429141719.png",
+    "attachments/Pasted image 20260429141545.jpg",
+    "attachments/Pasted image 20260429141602.jpg",
+    "attachments/Pasted image 20260429141512.jpg",
+    "数据结构.md",
+    "attachments/Pasted image 20260429141648.png",
+    "attachments/Pasted image 20260429141531.png",
+    "attachments",
     "Test.md",
     "未命名.canvas",
-    "数据结构.md",
     "未命名 1.base",
     "未命名.base",
     "新建 文本文档.txt"
