@@ -11,17 +11,28 @@
             "id": "976b3c25804f18fc",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "d59418853035f5d2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "数据结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "数据结构"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +60,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#你好",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +111,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "6ff489ad393cefed",
@@ -172,14 +183,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "976b3c25804f18fc",
+  "active": "d59418853035f5d2",
   "lastOpenFiles": [
+    "数据结构.md",
+    "未命名",
+    "未命名.canvas",
+    "Test.md",
     "attachments/Annotation_20250730_221051.jpg",
     "attachments/文档扫描_20251223160514848_edit_20583019369230.jpg",
-    "attachments",
-    "Test.md"
+    "attachments"
   ]
 }
